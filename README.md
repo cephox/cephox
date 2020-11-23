@@ -6,6 +6,6 @@ I like to code
 - [codeutils](https://github.com/cephox/codeutils) - A collection of simple codesnippets
 
 ### Some projects I'm currently working on
-- [wikicrawl](https://github.com/cephox/wikicrawler) - A wikipedia speedrunner
+- [wikicrawl](https://github.com/cephox/wikicrawl) - A wikipedia speedrunner
 - [RPDiscord](https://github.com/cephox/rpdiscord) - A RPG discord bot
 - [gate](https://github.com/cephox/gate) - A simple messenger
