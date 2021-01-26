@@ -6,6 +6,6 @@ I like to code
 - [biblebot](https://github.com/cephox/biblebot) - A discord bot quoting the bible
 - [codeutils](https://github.com/cephox/codeutils) - A collection of simple codesnippets
 
-### Some projects I'm working on
+### Some projects I'm currently working on
 - [bettermod](https://github.com/cephox/bettermod) - A better discord moderation bot
 - [pCode](https://github.com/cephox/pcode) - A rather useless codegolfing language
