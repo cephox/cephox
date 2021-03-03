@@ -7,6 +7,7 @@ I like to code
 - [codeutils](https://github.com/cephox/codeutils) - A collection of simple codesnippets
 
 ### Some projects I'm currently working on
+- [werwolf-online](github.com/cephox/werwolf-online) - The popular cards game playable over the web
 - [bettermod](https://github.com/cephox/bettermod) - A better discord moderation bot
 - [pCode](https://github.com/cephox/pcode) - A rather useless codegolfing language
 
