@@ -9,3 +9,6 @@ I like to code
 ### Some projects I'm currently working on
 - [bettermod](https://github.com/cephox/bettermod) - A better discord moderation bot
 - [pCode](https://github.com/cephox/pcode) - A rather useless codegolfing language
+
+### Where I'm contributing
+- [MorpheusHelper](github.com/defelo/morpheushelper/) - Bot for the Discord Server of `The Morpheus Tutorials`
