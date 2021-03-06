@@ -12,4 +12,4 @@ I like to code
 - [pCode](https://github.com/cephox/pcode) - A rather useless codegolfing language
 
 ### Where I'm contributing
-- [MorpheusHelper](github.com/defelo/morpheushelper/) - Bot for the Discord Server of `The Morpheus Tutorials`
+- [MorpheusHelper](https://github.com/defelo/morpheushelper/) - Bot for the Discord Server of `The Morpheus Tutorials`
